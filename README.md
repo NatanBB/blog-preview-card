@@ -11,6 +11,11 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - Create a blog preview card
 - See hover and focus states for all interactive elements on the page
 
+### Links
+
+- Solution URL: [Add solution URL here](https://github.com/NatanBB/blog-preview-card)
+- Live Site URL: [Add live site URL here](https://natanbb.github.io/blog-preview-card/)
+
 ### Built with
 
 - Semantic HTML5 markup
